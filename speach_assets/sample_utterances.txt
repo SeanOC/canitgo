@@ -9,3 +9,11 @@ MicrowaveIntent in the microwave
 DishwasherIntent can this go in the dishwasher
 DishwasherIntent dishwasher
 DishwasherIntent in the dishwasher
+
+AffirmativeIntent Yes
+AffirmativeIntent Yup
+AffirmativeIntent I think so
+
+NegativeIntent No
+NegativeIntent Nope
+NegativeIntent I don't think so

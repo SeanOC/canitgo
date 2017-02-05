@@ -1,7 +1,15 @@
 welcome: Welcome to can this go!  Ask me if something can go in your microwave, dishwasher, or oven and I can help you figure it out.  Say microwave, oven, or dishwasher to get started.
 
 oven_start: Does your item have "oven safe" printed on it anywhere?
+oven_done_positive: Great! You're good to put your item in the oven.
+oven_composition_question: OK, what is the item made of?
 
 microwave_start: Does your item have "microwave safe" printed on it anywhere?
+microwave_done_positive: Great! You're good to put your item in the microwave.
+microwave_metal_question:  Does your item contain any metal?
+microwave_metal_done: Metal doesn't play nice with microwaves.  You should transfer your food to a microwave safe dish before putting it in the microwave.
+microwave_plastic_start: Does your item contain any plastic?
 
 dishwasher_start: Does your item have "dishwashwer safe" printed on it anywhere?
+dishwasher_done_positive: Great! You're good to put your item in the dishwasher.
+oven_composition_question: OK, what is the item made of?

@@ -5,5 +5,9 @@
 		"intent": "MicrowaveIntent"
 	}, {
 		"intent": "DishwasherIntent"
+	}, {
+		"intent": "AffirmativeIntent"
+	}, {
+		"intent": "NegativeIntent"
 	}]
 }
