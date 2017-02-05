@@ -1,0 +1,9 @@
+{
+	"intents": [{
+		"intent": "OvenIntent"
+	}, {
+		"intent": "MicrowaveIntent"
+	}, {
+		"intent": "DishwasherIntent"
+	}]
+}

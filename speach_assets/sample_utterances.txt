@@ -1,0 +1,11 @@
+OvenIntent can this go in the oven
+OvenIntent in the oven
+OvenIntent oven
+
+MicrowaveIntent can this go in the microwave
+MicrowaveIntent microwave
+MicrowaveIntent in the microwave
+
+DishwasherIntent can this go in the dishwasher
+DishwasherIntent dishwasher
+DishwasherIntent in the dishwasher
